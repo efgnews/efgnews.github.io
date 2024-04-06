@@ -1,0 +1,4 @@
+baseURL = 'https://efgnews.github.io/'
+languageCode = 'bg-BG'
+title = 'EFG'
+theme = 'PaperMod'
