@@ -1,4 +1,63 @@
 baseURL = 'https://efgnews.github.io/'
-languageCode = 'bg-BG'
-title = 'EFG'
+defaultContentLanguage = 'bg'
 theme = 'PaperMod'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[languages]
+  [languages.bg]
+    disabled = false
+    languageCode = 'bg'
+    languageDirection = ''
+    languageName = 'Български'
+    title = 'EFG'
+    weight = 1
+
+[languages.bg.taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[languages.bg.menu.main]]
+name = "Търсене"
+url = "search/"
+weight = 10
+
+[[languages.bg.menu.main]]
+name = "Архиви"
+url = "archives/"
+weight = 11
+
+[[languages.bg.menu.main]]
+name = "Ключови думи"
+url = "tags/"
+weight = 12
+
+[params]
+env = "production"
+DateFormat = "2 January 2006"
+ShowReadingTime = true
+ShowCodeCopyButtons = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+showtoc = false
+
+  [params.homeInfoParams]
+  Title = "Здравейте 👋"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  limit = 10
+  keys = [ "title", "permalink", "summary", "content" ]
