@@ -1,8 +1,8 @@
 ---
-title: "Търсене"
-layout: "search"
-url: "/posts"
-description: "Описание на страницата за търсене"
+title: "Търсене" # in any language you want
+layout: "search" # necessary for search
+# url: "/archive"
+# description: "Description for Search"
 summary: "search"
 placeholder: ""
 ---
