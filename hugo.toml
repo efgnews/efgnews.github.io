@@ -25,7 +25,7 @@ url = "search/"
 weight = 10
 
 [[languages.bg.menu.main]]
-name = "Архиви"
+name = "Архив"
 url = "archives/"
 weight = 11
 
