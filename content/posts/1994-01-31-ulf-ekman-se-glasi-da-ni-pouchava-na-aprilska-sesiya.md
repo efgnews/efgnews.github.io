@@ -6,12 +6,6 @@ author:
   - 168 часа, бр. 5/1994
 date: 1994-01-31
 tags: ['секта', 'Слово на живот', 'Улф Екман', 'Швеция']
-cover:
-  image: ./images/1994-01-31-vurhovniya-sud-she-osporva-registraciyata-na-slovo-na-zhivot/cover.webp
-  alt: "След тази демонстрация институциите се размърдаха. Снимка: Борис Разаклиев"
-  caption: "След тази демонстрация институциите се размърдаха. Снимка: Борис Разаклиев"
-  hidden: false # hide everywhere but not in structured data
-  hiddenInSingle: false # hide on single page
 ---
 
 Родителски комитет за забрана на сектите ще се регистрира в

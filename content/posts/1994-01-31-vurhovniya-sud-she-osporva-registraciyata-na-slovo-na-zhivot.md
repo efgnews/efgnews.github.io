@@ -6,6 +6,10 @@ author:
   - 168 часа, бр. 5/1994
 date: 1994-01-31
 tags: ['секта', 'Слово на живот', 'съдебен процес']
+cover:
+  image: ./images/1994-01-31-vurhovniya-sud-she-osporva-registraciyata-na-slovo-na-zhivot/cover.webp
+  caption: "След тази демонстрация институциите се размърдаха. Снимка: Борис Разаклиев"
+  hiddenInSingle: false
 ---
 
 Върховният съд насрочи две дела за февруари срещу фондация
