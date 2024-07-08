@@ -11,7 +11,7 @@ home = [ 'HTML', 'RSS', 'JSON' ]
     languageCode = 'bg'
     languageDirection = ''
     languageName = 'Български'
-    title = 'EFG'
+    title = 'Архив'
     weight = 1
 
 [languages.bg.taxonomies]
@@ -45,7 +45,8 @@ hidemeta = false
 showtoc = false
 
   [params.homeInfoParams]
-  Title = "Здравейте 👋"
+  Title = "Здравейте 👋🕵🏻‍♀️"
+  Content = "Тук ще откриете архивни журналистически материали предимно от Миролюба Бенатова."
 
   [params.cover]
   hidden = true
