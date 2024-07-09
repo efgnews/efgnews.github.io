@@ -1,0 +1,11 @@
+
+{{- $base_url := "https://filedn.eu/lAbgdVsO1Xd5ibhWJn98VMJ/media" -}}
+{{- $audio_mp3 := .Get "src" -}}
+
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+        <source src="{{ $base_url }}{{ $audio_mp3 }}" type="audio/mpeg">
+    </audio>
+    {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+
