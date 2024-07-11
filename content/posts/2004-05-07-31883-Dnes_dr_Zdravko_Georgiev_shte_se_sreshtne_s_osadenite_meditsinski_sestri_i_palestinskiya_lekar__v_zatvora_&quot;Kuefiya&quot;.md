@@ -22,4 +22,4 @@ tags: ['българските медици в Либия', 'Либия', 'Зд�
 
 Вестник "Вос де Галисия" припомня, че обвинените българи бяха задържани в продължение на повече от 5 години в началото по обвинение в заговор, насочен към дестабилизиране на либийската държава, а едва впоследствие в умишлено заразяване с вируса на СПИН.
 
-*Изотчник: [bTV](https://btvnovinite.bg/31883-Dnes_dr_Zdravko_Georgiev_shte_se_sreshtne_s_osadenite_meditsinski_sestri_i_palestinskiya_lekar__v_zatvora_&amp;quot;Kuefiya&amp;quot;.html)*
+*Източник: [bTV](https://btvnovinite.bg/31883-Dnes_dr_Zdravko_Georgiev_shte_se_sreshtne_s_osadenite_meditsinski_sestri_i_palestinskiya_lekar__v_zatvora_&amp;quot;Kuefiya&amp;quot;.html)*

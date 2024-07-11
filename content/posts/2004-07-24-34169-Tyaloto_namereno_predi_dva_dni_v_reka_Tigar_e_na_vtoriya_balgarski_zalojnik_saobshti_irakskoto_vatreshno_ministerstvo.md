@@ -64,4 +64,4 @@ tags: ["Ирак"]
 
 До момента от българска страна няма официално потвърждение за смъртта на втория българин, Ивайло Кепов.
 
-*Изотчник: [bTV](https://btvnovinite.bg/34169-Tyaloto_namereno_predi_dva_dni_v_reka_Tigar_e_na_vtoriya_balgarski_zalojnik_saobshti_irakskoto_vatreshno_ministerstvo.html)*
+*Източник: [bTV](https://btvnovinite.bg/34169-Tyaloto_namereno_predi_dva_dni_v_reka_Tigar_e_na_vtoriya_balgarski_zalojnik_saobshti_irakskoto_vatreshno_ministerstvo.html)*

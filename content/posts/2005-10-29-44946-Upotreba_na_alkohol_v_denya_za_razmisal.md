@@ -30,4 +30,4 @@ tags: ["избори", "алкохол", "МВР"]
 
 От дирекцията на полицията ни съобщиха, че за нощта в София са издадени 21 разпоредителни протокола за затваряне на обектите и спиране на продажбата. Ние не се натъкнахме на такива.
 
-*Изотчник: [bTV](https://btvnovinite.bg/44946-Upotreba_na_alkohol_v_denya_za_razmisal.html)*
+*Източник: [bTV](https://btvnovinite.bg/44946-Upotreba_na_alkohol_v_denya_za_razmisal.html)*

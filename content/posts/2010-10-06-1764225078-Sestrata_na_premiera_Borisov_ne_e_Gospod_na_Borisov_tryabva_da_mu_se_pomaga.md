@@ -37,4 +37,4 @@ cover:
 
 Целия разговор можете да чуете в прикачения файл.
 
-*Изотчник: bTV [линк 1](https://btvnovinite.bg/1764225078-Sestrata_na_premiera_Borisov_ne_e_Gospod_na_Borisov_tryabva_da_mu_se_pomaga.html) [линк 2](https://web.archive.org/web/20101009113322/http://www.btv.bg/shows/tazi-sutrin/videos/video/291993046-Sestrata_na_premiera_za_krizata_v_zdraveopazvaneto.html)*
+*Източник: bTV [линк 1](https://btvnovinite.bg/1764225078-Sestrata_na_premiera_Borisov_ne_e_Gospod_na_Borisov_tryabva_da_mu_se_pomaga.html) [линк 2](https://web.archive.org/web/20101009113322/http://www.btv.bg/shows/tazi-sutrin/videos/video/291993046-Sestrata_na_premiera_za_krizata_v_zdraveopazvaneto.html)*

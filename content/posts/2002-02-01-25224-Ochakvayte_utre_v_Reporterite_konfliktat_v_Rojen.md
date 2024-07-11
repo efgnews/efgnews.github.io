@@ -10,4 +10,4 @@ tags: ["bTV Репортерите", "Рожен", "Роженски манас�
 
 Хората се оплакват, че отеца разполага покоите на манастира върху техни земи.
 
-*Изотчник: [bTV](https://btvnovinite.bg/25224-Ochakvayte_utre_v_&amp;quot;Reporterite&amp;quot;___konfliktat_v_Rojen.html)*
+*Източник: [bTV](https://btvnovinite.bg/25224-Ochakvayte_utre_v_&amp;quot;Reporterite&amp;quot;___konfliktat_v_Rojen.html)*

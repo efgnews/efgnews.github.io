@@ -60,4 +60,4 @@ tags: ["порнография", "Александър Александров", 
 Разширен репортаж от разследването на Би Ти Ви за порнографските филми гледайте утре в "Тази сутрин", в 7.50 ч.
 
 
-*Изотчник: [bTV](https://btvnovinite.bg/39850-Ekip_na_Bi_Ti_Vi_pod_prikritie_zasne_kak_se_urejdat_snimki_na_pornofilm_v_Sofia.html)*
+*Източник: [bTV](https://btvnovinite.bg/39850-Ekip_na_Bi_Ti_Vi_pod_prikritie_zasne_kak_se_urejdat_snimki_na_pornofilm_v_Sofia.html)*

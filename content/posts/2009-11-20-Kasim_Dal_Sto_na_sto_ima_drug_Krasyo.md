@@ -87,4 +87,4 @@ cover:
 
 Миролюба Бенатова: Хора от ДПС имате предвид?
 
-*Изотчник: [bTV](https://btvnovinite.bg/145730-Kasim_Dal_Sto_na_sto_ima_drug_Krasyo.html)*
+*Източник: [bTV](https://btvnovinite.bg/145730-Kasim_Dal_Sto_na_sto_ima_drug_Krasyo.html)*

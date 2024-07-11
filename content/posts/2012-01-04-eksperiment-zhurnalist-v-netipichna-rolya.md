@@ -8,4 +8,4 @@ tags: ["Хрътките", "Социален експеримент"]
 
 {{< video src="/miroluba-benatova/2012-01-04-eksperiment-zhurnalist-v-netipichna-rolya.mp4" poster="/miroluba-benatova/2012-01-04-eksperiment-zhurnalist-v-netipichna-rolya.jpg" >}}
 
-*Изотчник: [bTV](https://www.btv.bg/shows/hratkite/videos/eksperimentat/eksperiment-zhurnalist-v-netipichna-rolya.html)*
+*Източник: [bTV](https://www.btv.bg/shows/hratkite/videos/eksperimentat/eksperiment-zhurnalist-v-netipichna-rolya.html)*

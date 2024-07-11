@@ -49,4 +49,4 @@ tags: ["порнография", "Александър Александров"]
 
 "Много хубав филм беше. Това трябваше да е не журналист а полицай под прикритие. Разпоредил съм проверка", съобщи ген. Борисов.
 
-*Изотчник: [bTV](https://btvnovinite.bg/39884-Nakazanieto_za_razprostranenieto_na_pornografski_materiali_e_edna_godina_zatvor.html)*
+*Източник: [bTV](https://btvnovinite.bg/39884-Nakazanieto_za_razprostranenieto_na_pornografski_materiali_e_edna_godina_zatvor.html)*

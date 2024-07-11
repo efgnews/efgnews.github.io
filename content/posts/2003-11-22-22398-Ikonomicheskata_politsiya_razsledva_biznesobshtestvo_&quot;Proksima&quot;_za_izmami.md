@@ -26,4 +26,4 @@ tags: ["bTV Репортерите", "Икономическа полиция", 
 
 Кой стои зад така нареченото бизнес-общество "Поксима" и къде изтичат около 30 000 евро на седмица ще разберете от журналистическото разследване на Миролюба Бенатова, което можете да видите утре в предаването "bTV Репортерите", в седем вечерта.
 
-*Изотчник: [bTV](https://btvnovinite.bg/22398-Ikonomicheskata_politsiya_razsledva_biznesobshtestvo_&quot;Proksima&quot;_za_izmami.html)*
+*Източник: [bTV](https://btvnovinite.bg/22398-Ikonomicheskata_politsiya_razsledva_biznesobshtestvo_&quot;Proksima&quot;_za_izmami.html)*

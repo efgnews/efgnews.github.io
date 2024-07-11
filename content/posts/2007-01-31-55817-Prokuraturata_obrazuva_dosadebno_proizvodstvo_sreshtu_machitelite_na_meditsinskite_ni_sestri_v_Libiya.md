@@ -62,4 +62,4 @@ tags: ['българските медици в Либия', "СГП", "НСлС"
 ***
 Историята на СПИН процеса, как са задържани българите и какво са преживели, гледайте във филма на Миролюба Бенатова и оператора Валентин Василев - "Отложени мечти" Тази неделя в bTV "Репортерите", от 18:30 часа.
 
-*Изотчник: [bTV](https://btvnovinite.bg/55817-Prokuraturata_obrazuva_dosadebno_proizvodstvo_sreshtu_machitelite_na_meditsinskite_ni_sestri_v_Libiya.html)*
+*Източник: [bTV](https://btvnovinite.bg/55817-Prokuraturata_obrazuva_dosadebno_proizvodstvo_sreshtu_machitelite_na_meditsinskite_ni_sestri_v_Libiya.html)*

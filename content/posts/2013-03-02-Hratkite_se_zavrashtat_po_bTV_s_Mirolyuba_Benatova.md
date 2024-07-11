@@ -36,5 +36,5 @@ tags: ["Хрътките"]
 
 *2012 г. - наградата "Медия мастърс" за разследване за телефонните измами.*
 
-*Изотчник: bTV [линк 1](https://www.btv.bg/shows/hratkite/news/hratkite-se-zavrashtat-po-btv-s-mirolyuba-benatova.html),
+*Източник: bTV [линк 1](https://www.btv.bg/shows/hratkite/news/hratkite-se-zavrashtat-po-btv-s-mirolyuba-benatova.html),
  [линк 2](https://web.archive.org/web/20130227043452/http://www.btv.bg/za%20btv/spetsialno/story/1598141915-Hratkite_se_zavrashtat_po_bTV_s_Mirolyuba_Benatova1598141915-Hratkite_se_zavrashtat_po_bTV_s_Mirolyuba_Benatova.html)*

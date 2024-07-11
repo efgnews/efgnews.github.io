@@ -31,4 +31,4 @@ tags: ["Европейски съюз", "Франко Фратини", "МВР"]
 
 Повече информация за напредъка на България ще научите от интервюто на Миролюба Бенатова с еврокомисаря Франко Фратини, утре, в 8.10 часа, в предаването на Би Ти Ви - "Тази сутрин".
 
-*Изотчник: [bTV](https://btvnovinite.bg/51061-Fratini_e_optimistichno_nastroen_otnosno_chlenstvoto_ni_v_Evrosayuza_na_1_yanuari_2007_g.html)*
+*Източник: [bTV](https://btvnovinite.bg/51061-Fratini_e_optimistichno_nastroen_otnosno_chlenstvoto_ni_v_Evrosayuza_na_1_yanuari_2007_g.html)*

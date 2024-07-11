@@ -10,4 +10,4 @@ tags: ['награди']
 
 "Тъй като Не съм от службите. Бях много изненадана. Второ - наистина е голямо предизвикателство. Радостно е, че са забелязали моята работа и качеството й", каза Миролюба Бенатова.
 
-*Изотчник: [bTV](https://btvnovinite.bg/41806-Reporterat_ot_Bi_Ti_Vi__Mirolyuba_Benatova_beshe_nagradena_ot_Parlamentarnata_komisiya_po_vatreshna_sigurnost_i_obshtestven_red.html)*
+*Източник: [bTV](https://btvnovinite.bg/41806-Reporterat_ot_Bi_Ti_Vi__Mirolyuba_Benatova_beshe_nagradena_ot_Parlamentarnata_komisiya_po_vatreshna_sigurnost_i_obshtestven_red.html)*

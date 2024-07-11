@@ -34,4 +34,4 @@ tags: ['награди', 'Златомир Иванов-Баретата']
 
 Награди получиха и колеги от Нова телевизия, Обществена телевизия Пловдив, както и "168 часа", "Пари" и "Банкер" в раздела за печатни медии.
 
-*Изотчник: [bTV](https://btvnovinite.bg/40729-Bi_Ti_Vi_specheli_nagradata_na_&amp;quot;Koalitsiya_2000&amp;quot;_i_amerikanskoto_posolstvo_u_nas_za_demitologizirane_na_prestapniya_svyat.html)*
+*Източник: [bTV](https://btvnovinite.bg/40729-Bi_Ti_Vi_specheli_nagradata_na_&amp;quot;Koalitsiya_2000&amp;quot;_i_amerikanskoto_posolstvo_u_nas_za_demitologizirane_na_prestapniya_svyat.html)*

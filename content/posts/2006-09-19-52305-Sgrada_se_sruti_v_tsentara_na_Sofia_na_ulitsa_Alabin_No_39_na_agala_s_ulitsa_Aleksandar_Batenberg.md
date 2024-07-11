@@ -8,4 +8,4 @@ tags: ["инцидент", "София"]
 
 Двете момичета са пътували в кола "Пежо", но са попаднали в задръстване и тогава сградата се е срутила върху колата. Очаквайте повече информация в късните новини на bTV.
 
-*Изотчник: [bTV](https://btvnovinite.bg/52305-Sgrada_se_sruti_v_tsentara_na_Sofia_na_ulitsa_&amp;quot;Alabin&amp;quot;_No_39_na_agala_s_ulitsa_&amp;quot;Aleksandar_Batenberg&amp;quot;.html)*
+*Източник: [bTV](https://btvnovinite.bg/52305-Sgrada_se_sruti_v_tsentara_na_Sofia_na_ulitsa_&amp;quot;Alabin&amp;quot;_No_39_na_agala_s_ulitsa_&amp;quot;Aleksandar_Batenberg&amp;quot;.html)*

@@ -30,4 +30,4 @@ tags: ['българските медици в Либия']
 
 Снежана Димитрова: “Искам да ми върнат свободата и да си бъда при семейството. И мисля, че го заслужавам.”
 
-*Изотчник: [bTV](https://btvnovinite.bg/54788-Koi_sa_balgarskite_meditsi_v_Libiya_.html)*
+*Източник: [bTV](https://btvnovinite.bg/54788-Koi_sa_balgarskite_meditsi_v_Libiya_.html)*

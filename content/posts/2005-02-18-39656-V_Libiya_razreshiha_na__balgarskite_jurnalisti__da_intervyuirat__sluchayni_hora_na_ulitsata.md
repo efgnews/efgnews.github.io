@@ -47,4 +47,4 @@ tags: ['Либия', 'Триполи']
 
 Репортажът за живота в Либия на Миролюба Бенатова и оператора Валентин Василев, гледайте тази неделя в предаването "В Десетката с Иво Инджев".
 
-*Изотчник: [bTV](https://btvnovinite.bg/39656-V_Libiya_razreshiha_na__balgarskite_jurnalisti__da_intervyuirat__sluchayni_hora_na_ulitsata.html)*
+*Източник: [bTV](https://btvnovinite.bg/39656-V_Libiya_razreshiha_na__balgarskite_jurnalisti__da_intervyuirat__sluchayni_hora_na_ulitsata.html)*

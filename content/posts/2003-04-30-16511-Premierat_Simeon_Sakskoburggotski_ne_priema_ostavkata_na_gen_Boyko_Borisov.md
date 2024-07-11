@@ -47,4 +47,4 @@ tags: ["Симеон Сакскобургготски", "Бойко Борисо
 
 "Решението на премиера следва да бъде подкрепено, то е достойно за уважение и обяснява колко е ловък Бойко в борбата с престъпността."
 
-*Изотчник: [bTV](https://btvnovinite.bg/16511-Premierat_Simeon_Sakskoburggotski_ne_priema_ostavkata_na_gen_Boyko_Borisov.html)*
+*Източник: [bTV](https://btvnovinite.bg/16511-Premierat_Simeon_Sakskoburggotski_ne_priema_ostavkata_na_gen_Boyko_Borisov.html)*

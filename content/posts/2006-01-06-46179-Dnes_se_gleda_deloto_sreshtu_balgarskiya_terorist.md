@@ -15,4 +15,4 @@ tags: ["НСБОП", "Янко Димчев-Джузо", "заложници"]
 
 Джузо повтори, че е употребен от НСБОП и поръчковите убийства от последните години у нас се инициират от висши представители на МВР.
 
-*Изотчник: [bTV](https://btvnovinite.bg/46179-Dnes_se_gleda_deloto_sreshtu_balgarskiya_&amp;quot;terorist&amp;quot;.html)*
+*Източник: [bTV](https://btvnovinite.bg/46179-Dnes_se_gleda_deloto_sreshtu_balgarskiya_&amp;quot;terorist&amp;quot;.html)*

@@ -21,4 +21,4 @@ cover:
 
 "Този град ми е дал всичко – възпитал ме е, отгледал ме е, имам очи да се върна. Не съм направила големи поразии в живота си, имам очи да погледна съгражданите си и не мисля, че това е отиване в провинцията”, коментира Ива Николова.
 
-*Изотчник: [bTV](https://btvnovinite.bg/1377815850-Izdigat_kandidaturata_na_jurnalista_Iva_Nikolova_za_kmet_na_Gabrovo.html)*
+*Източник: [bTV](https://btvnovinite.bg/1377815850-Izdigat_kandidaturata_na_jurnalista_Iva_Nikolova_za_kmet_na_Gabrovo.html)*

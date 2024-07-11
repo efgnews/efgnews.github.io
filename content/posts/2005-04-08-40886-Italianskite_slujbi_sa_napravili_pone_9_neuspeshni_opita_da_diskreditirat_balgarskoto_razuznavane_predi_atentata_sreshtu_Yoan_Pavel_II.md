@@ -23,4 +23,4 @@ tags: ["Любен Гоцев", "папа Йоан Павел Втори"]
 
 Разширено интервю с Любен Гоцев гледайте тази неделя в предаването на Би Ти Ви "В десетката".
 
-*Изотчник: [bTV](https://btvnovinite.bg/40886-Italianskite_slujbi_sa_napravili_pone_9_neuspeshni_opita_da_diskreditirat_balgarskoto_razuznavane_predi_atentata_sreshtu_Yoan_Pavel_II.html)*
+*Източник: [bTV](https://btvnovinite.bg/40886-Italianskite_slujbi_sa_napravili_pone_9_neuspeshni_opita_da_diskreditirat_balgarskoto_razuznavane_predi_atentata_sreshtu_Yoan_Pavel_II.html)*

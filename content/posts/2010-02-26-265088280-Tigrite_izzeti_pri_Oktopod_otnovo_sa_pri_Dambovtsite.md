@@ -48,4 +48,4 @@ tags: ["Малкия Дамбовец", "Октопод"]
 
 *[Целия репортаж](https://filedn.eu/lAbgdVsO1Xd5ibhWJn98VMJ/media-archive/posts/2010-03-01-2045560020-malkiya_dambovets_progovori/) на Генка Шикерова и Миролюба Бенатова от имението на Дамбовците гледайте в понеделник, 1 март, в предаването "Тази сутрин".*
 
-*Изотчник: [bTV](https://btvnovinite.bg/265088280-Tigrite_izzeti_pri_Oktopod_otnovo_sa_pri_Dambovtsite.html)*
+*Източник: [bTV](https://btvnovinite.bg/265088280-Tigrite_izzeti_pri_Oktopod_otnovo_sa_pri_Dambovtsite.html)*

@@ -26,4 +26,4 @@ tags: ['дрога', 'ГДБОП', 'Цветан Цветанов', 'Бойко 
 
 Не е ясно как държавата ще попречи на желаещите да овладеят разпространението на наркотици, и как ще попречи на създаването на нови легенди.
 
-*Изотчник: [bTV](https://btvnovinite.bg/275216673-GDBOP_Haos_tsari_v_biznesa_s_narkotitsi_chakat_se_sblasatsi.html)*
+*Източник: [bTV](https://btvnovinite.bg/275216673-GDBOP_Haos_tsari_v_biznesa_s_narkotitsi_chakat_se_sblasatsi.html)*
