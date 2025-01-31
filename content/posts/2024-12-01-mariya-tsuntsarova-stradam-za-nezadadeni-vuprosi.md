@@ -5,7 +5,7 @@ author: ["Ваня Шекерова"]
 date: 2024-12-01
 tags: ['журналистика']
 cover:
-  image: ./images/2024-12-01-mariya-tsuntsarova-stradam-za-nezadadeni-vuprosi/cover.webp
+  image: ./images/2024-12-01-mariya-tsuntsarova-stradam-za-nezadadeni-vuprosi/cover.jpg
   caption: "Мария Цънцарова, Фотограф: Диляна Флорентин"
   hiddenInSingle: false
 ---
